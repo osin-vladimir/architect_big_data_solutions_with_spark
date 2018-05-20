@@ -10,7 +10,7 @@ engine with respect to ETL processes, Streaming and Machine Learning.
 
 ### Computational Resources
 
-1. Please register for *community* version of DataBricks [here](https://databricks.com/try-databricks).
+1. Please register for **community** version of DataBricks [here](https://databricks.com/try-databricks).
 2. Please register for free tier AWS account [here](https://aws.amazon.com/free/)
 
 ### Data Sources
