@@ -10,7 +10,7 @@ engine with respect to ETL processes, Streaming and Machine Learning.
 
 ### Computational Resources
 
-1. Please register for community version of DataBricks [here](https://databricks.com/try-databricks).
+1. Please register for *community* version of DataBricks [here](https://databricks.com/try-databricks).
 2. Please register for free tier AWS account [here](https://aws.amazon.com/free/)
 
 ### Data Sources
@@ -19,17 +19,22 @@ engine with respect to ETL processes, Streaming and Machine Learning.
 2. [Open Data Platform for Swiss Transport](https://opentransportdata.swiss/de/dataset/istdaten)
 3. Real-time Bitcoin API for Kenesis Stream
 
+Note: You can download data to DataBricks directly or use AWS S3 bucket for storage:
+- [How to upload data to DataBricks](https://docs.databricks.com/user-guide/tables.html#create-table-ui)
+- [Read CSV files from uploaded data](https://docs.databricks.com/spark/latest/data-sources/read-csv.html) 
+
 ### Additional Resources
 
 We provide links for nice cheat sheets and books in order to make course as smooth as possible:
 
 1. [A Gentle Introduction to Apache Spark](Resources/A_Gentle_Introduction_to_Apache_Spark.pdf)
-2. [PySpark Cheat Sheet for Python](Resources/PySpark_Cheat_Sheet_for_Python.pdf)
-3. [Python Cheat Sheet](Resources/Python_Cheat_Sheet.pdf)
-4. [Machine Learning Tutorial for AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html?icmpid=docs_machinelearning_console)
-5. [DataBricks Development Documentation](https://docs.databricks.com/index.html)
-6. [Developers Guide for AWS Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
-7. [Superset](https://superset.incubator.apache.org/)
+2. [How to import Data to DataBricks using S3](Resources/Import_Data_to_Databricks.pdf)
+3. [PySpark Cheat Sheet for Python](Resources/PySpark_Cheat_Sheet_for_Python.pdf)
+4. [Python Cheat Sheet](Resources/Python_Cheat_Sheet.pdf)
+5. [Machine Learning Tutorial for AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html?icmpid=docs_machinelearning_console)
+6. [DataBricks Development Documentation](https://docs.databricks.com/index.html)
+7. [Developers Guide for AWS Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
+8. [Superset](https://superset.incubator.apache.org/)
 
 ### Course Initiative: 
 
