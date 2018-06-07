@@ -1,6 +1,6 @@
 ## Architect Big Data Solutions with Apache Spark
 
-![alt text](https://www.computing.co.uk/w-images/cc6f36ae-ffb1-4271-8847-725556046f5c/0/apachesparklogo-580x358.png)
+<img src="https://www.computing.co.uk/w-images/cc6f36ae-ffb1-4271-8847-725556046f5c/0/apachesparklogo-580x358.png" width="300" height="200" />
 
 ### Introduction 
 
@@ -15,13 +15,17 @@ engine with respect to ETL processes, Streaming and Machine Learning.
 
 ### Data Sources
 
-1. [2015 Flight Delays and Cancellations](https://www.kaggle.com/usdot/flight-delays)
-2. [Open Data Platform for Swiss Transport](https://opentransportdata.swiss/de/dataset/istdaten)
-3. Real-time Bitcoin API for Kenesis Stream
+You can find data and additional information from the links below:
+1. [MovieLens DataSet](https://grouplens.org/datasets/movielens/)
+2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+3. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-Note: You can download data to DataBricks directly or use AWS S3 bucket for storage:
+Note:  For you convenience data already downloaded to Datasets folder of this repository.
+
+Note: You can upload data to DataBricks directly or use AWS S3 bucket for storage:
 - [How to upload data to DataBricks](https://docs.databricks.com/user-guide/tables.html#create-table-ui)
 - [Read CSV files from uploaded data](https://docs.databricks.com/spark/latest/data-sources/read-csv.html) 
+
 
 ### Additional Resources
 
@@ -40,3 +44,5 @@ We provide links for nice cheat sheets and books in order to make course as smoo
 
 * [Ekhtiar Syed](https://www.linkedin.com/in/ekhtiar/)
 * [Vladimir Osin](https://www.linkedin.com/in/vosin/) 
+
+If you like the initiative please star/fork that repository and feel free to contribute with pull requests.  
