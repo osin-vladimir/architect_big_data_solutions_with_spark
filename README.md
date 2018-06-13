@@ -5,8 +5,7 @@
 ### Introduction 
 
 This repository contains lectures and codes for the course that aims to provide 
-gentle introduction to Apache Spark and address different capabilities of this computational 
-engine with respect to ETL processes, Streaming and Machine Learning.
+a gentle introduction on how to build distributed big data pipelines with the help of Apache Spark. Furthermore, we try to address different capabilities of Apache Spark for building ETL/ Batch, Streaming, and Machine Learning data pipelines.
 
 ### Computational Resources
 
