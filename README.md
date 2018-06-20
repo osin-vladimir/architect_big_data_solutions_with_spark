@@ -44,4 +44,10 @@ We provide links for nice cheat sheets and books in order to make course as smoo
 * [Ekhtiar Syed](https://www.linkedin.com/in/ekhtiar/)
 * [Vladimir Osin](https://www.linkedin.com/in/vosin/) 
 
-If you like the initiative please star/fork that repository and feel free to contribute with pull requests.  
+If you like the initiative please star/fork that repository and feel free to contribute with pull requests.
+
+### Places where this course has been taught (physically) 
+
+* [Philips Lighting / Signify](https://www.signify.com)
+* [Joint Master Data Science & Entrepreneurship@ JADS](https://www.jads.nl/joint-master-program-data-science-entrepreneurship.html)
+* [Data Expert Program for Professionals @ JADS](https://www.jads.nl/dataexpertprogram.html) 
