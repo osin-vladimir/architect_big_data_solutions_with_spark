@@ -7,6 +7,14 @@
 This repository contains lectures and codes for the course that aims to provide 
 a gentle introduction on how to build distributed big data pipelines with the help of Apache Spark. Furthermore, we try to address different capabilities of Apache Spark for building ETL/ Batch, Streaming, and Machine Learning data pipelines.
 
+### Content
+
+1. Introduction [[lecture 1]](Modules/01%20Introduction/Lectures/Lecture%201%20-%20Introduction%20to%20the%20Course.pdf) [[labs]](Modules/01%20Introduction/Labs) 
+2. SQL and DataFrame [[labs]](Modules/02%20SQL%20and%20DataFrame)
+3. Batch Processing [[lecture 2]](Modules/03%20Batch%20Processing/Lecture%202%20-%20Building%20Batch%20Applications.pdf) [[lecture 3]](Modules/03%20Batch%20Processing/Lecture%203%20-%20Our%20ETL%20Application.pdf)
+4. Stream Processing [[lecture 4]](Modules/04%20Stream%20Processing/lectures/Lecture%204%20-%20Streaming%20Application.pdf) [[lecture 5]](Modules/04%20Stream%20Processing/lectures/Lecture%205%20-%20Spark%20Streaming%20vs%20Structured%20Streaming.pdf) [[labs]](Modules/04%20Stream%20Processing/Labs)
+5. Machine Learning [[lecture 6]](Modules/05%20Machine%20Learning/Machine%20Learning%20In%20Spark%2C%20AWS%20and%20Kaggle.pdf) [[labs]](Modules/05%20Machine%20Learning/Lab)
+
 ### Computational Resources
 
 1. Please register for **community** version of DataBricks [here](https://databricks.com/try-databricks).
