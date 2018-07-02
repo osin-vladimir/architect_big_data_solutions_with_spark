@@ -18,7 +18,7 @@ a gentle introduction on how to build distributed big data pipelines with the he
 ### Computational Resources
 
 1. Please register for **community** version of DataBricks [here](https://databricks.com/try-databricks).
-2. Please register for free tier AWS account [here](https://aws.amazon.com/free/)
+2. Please register for **free tier** AWS account [here](https://aws.amazon.com/free/)
 
 ### Data Sources
 
@@ -27,9 +27,9 @@ You can find data and additional information from the links below:
 2. [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 3. [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-Note:  For you convenience data already downloaded to Datasets folder of this repository.
+**Note:**  For you convenience data already downloaded to Datasets folder of this repository.
 
-Note: You can upload data to DataBricks directly or use AWS S3 bucket for storage:
+**Note:** You can upload data to DataBricks directly or use AWS S3 bucket for storage:
 - [How to upload data to DataBricks](https://docs.databricks.com/user-guide/tables.html#create-table-ui)
 - [Read CSV files from uploaded data](https://docs.databricks.com/spark/latest/data-sources/read-csv.html) 
 
