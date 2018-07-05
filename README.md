@@ -5,7 +5,10 @@
 ### Introduction 
 
 This repository contains lectures and codes for the course that aims to provide 
-a gentle introduction on how to build distributed big data pipelines with the help of Apache Spark. Furthermore, we try to address different capabilities of Apache Spark for building ETL/ Batch, Streaming, and Machine Learning data pipelines.
+a gentle introduction on how to build distributed big data pipelines with the help of Apache Spark. Apache Spark is an open-source data processing engine for engineers and analysts that includes an optimized general execution runtime and a set of standard libraries for building data pipelines, advanced algorithms, and more. Spark is rapidly becoming the compute engine of choice for big data. Spark programs are more concise and often run 10-100 times faster than Hadoop MapReduce jobs. As companies realize this, Spark developers are becoming increasingly valued. 
+
+In this course we will learn the architectural and practical part of using Apache Spark to implement big data solutions. We will use the Spark Core, SparkSQL, Spark Streaming, and Spark ML to implement different advanced analytics and machine learning algorithms in a production like data pipeline. This course will master your skills in designing solutions for common Big Data tasks such as creating batch and real-time data processing pipelines, doing machine learning at scale, deploying machine learning models into a production environment, and much more!
+
 
 ### Content
 
