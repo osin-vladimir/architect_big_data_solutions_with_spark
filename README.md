@@ -16,7 +16,7 @@ In this course we will learn the architectural and practical part of using Apach
 2. SQL and DataFrame [[labs]](Modules/02%20SQL%20and%20DataFrame)
 3. Batch Processing [[lecture 2]](Modules/03%20Batch%20Processing/Lecture%202%20-%20Building%20Batch%20Applications.pdf) [[lecture 3]](Modules/03%20Batch%20Processing/Lecture%203%20-%20Our%20ETL%20Application.pdf)
 4. Stream Processing [[lecture 4]](Modules/04%20Stream%20Processing/lectures/Lecture%204%20-%20Streaming%20Application.pdf) [[lecture 5]](Modules/04%20Stream%20Processing/lectures/Lecture%205%20-%20Spark%20Streaming%20vs%20Structured%20Streaming.pdf) [[labs]](Modules/04%20Stream%20Processing/Labs)
-5. Machine Learning [[lecture 6]](Modules/05%20Machine%20Learning/Machine%20Learning%20In%20Spark%2C%20AWS%20and%20Kaggle.pdf) [[labs]](Modules/05%20Machine%20Learning/Lab)
+5. Machine Learning [[lecture 6]](Modules/05%20Machine%20Learning/Lecture%206%20-%20Machine%20Learning.pdf) [[labs]](Modules/05%20Machine%20Learning/Lab)
 
 ### Computational Resources
 
