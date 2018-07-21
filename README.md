@@ -60,5 +60,6 @@ If you like the initiative please star/fork that repository and feel free to con
 ### Places where this course has been taught (physically) 
 
 * [Philips Lighting / Signify](https://www.signify.com)
-* [Joint Master Data Science & Entrepreneurship@ JADS](https://www.jads.nl/joint-master-program-data-science-entrepreneurship.html)
+* [Joint Master Data Science & Entrepreneurship @ JADS](https://www.jads.nl/joint-master-program-data-science-entrepreneurship.html)
 * [Data Expert Program for Professionals @ JADS](https://www.jads.nl/dataexpertprogram.html) 
+* [PDEng Software Technology (ST) program @ TU/e](https://www.tue.nl/en/education/tue-graduate-school/pdeng-programs/pdeng-programs-overview/pdeng-software-technology-st/)
