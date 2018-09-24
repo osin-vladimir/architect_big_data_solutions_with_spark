@@ -12,8 +12,8 @@ In this course we will learn the architectural and practical part of using Apach
 
 ### Content
 
-1. Introduction [[lecture 1]](Modules/01%20Introduction/Lectures/Lecture%201%20-%20Introduction%20to%20the%20Course.pdf) [[labs]](Modules/01%20Introduction/Labs) 
-2. SQL and DataFrame [[labs]](Modules/02%20SQL%20and%20DataFrame)
+1. Introduction [[lecture 1]](Modules/01%20Introduction/Lectures/Lecture%201%20-%20Introduction%20to%20the%20Course.pdf) [[labs]](Modules/01%20Introduction/Labs) [[pyspark Python cheat sheet]](Resources/PySpark_Cheat_Sheet_for_Python.pdf)
+2. SQL and DataFrame [[labs]](Modules/02%20SQL%20and%20DataFrame) [[pyspark SQL cheat sheet]](Resources/PySpark_SQL_Cheat_Sheet_Python.pdf)
 3. Batch Processing [[lecture 2]](Modules/03%20Batch%20Processing/Lecture%202%20-%20Building%20Batch%20Applications.pdf) [[lecture 3]](Modules/03%20Batch%20Processing/Lecture%203%20-%20Our%20ETL%20Application.pdf)
 4. Stream Processing [[lecture 4]](Modules/04%20Stream%20Processing/lectures/Lecture%204%20-%20Streaming%20Application.pdf) [[lecture 5]](Modules/04%20Stream%20Processing/lectures/Lecture%205%20-%20Spark%20Streaming%20vs%20Structured%20Streaming.pdf) [[labs]](Modules/04%20Stream%20Processing/Labs)
 5. Machine Learning [[lecture 6]](Modules/05%20Machine%20Learning/Lecture%206%20-%20Machine%20Learning.pdf) [[labs]](Modules/05%20Machine%20Learning/Lab)
@@ -43,12 +43,11 @@ We provide links for nice cheat sheets and books in order to make course as smoo
 
 1. [A Gentle Introduction to Apache Spark](Resources/A_Gentle_Introduction_to_Apache_Spark.pdf)
 2. [How to import Data to DataBricks using S3](Resources/Import_Data_to_Databricks.pdf)
-3. [PySpark Cheat Sheet for Python](Resources/PySpark_Cheat_Sheet_for_Python.pdf)
-4. [Python Cheat Sheet](Resources/Python_Cheat_Sheet.pdf)
-5. [Machine Learning Tutorial for AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html?icmpid=docs_machinelearning_console)
-6. [DataBricks Development Documentation](https://docs.databricks.com/index.html)
-7. [Developers Guide for AWS Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
-8. [Superset](https://superset.incubator.apache.org/)
+3. [Python Cheat Sheet](Resources/Python_Cheat_Sheet.pdf)
+4. [Machine Learning Tutorial for AWS](https://docs.aws.amazon.com/machine-learning/latest/dg/tutorial.html?icmpid=docs_machinelearning_console)
+5. [DataBricks Development Documentation](https://docs.databricks.com/index.html)
+6. [Developers Guide for AWS Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
+7. [Superset](https://superset.incubator.apache.org/)
 
 ### Course Initiative: 
 
