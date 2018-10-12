@@ -2,6 +2,8 @@
 
 <img src="https://www.computing.co.uk/w-images/cc6f36ae-ffb1-4271-8847-725556046f5c/0/apachesparklogo-580x358.png" width="300" height="200" />
 
+----
+
 ### Introduction 
 
 This repository contains lectures and codes for the course that aims to provide 
@@ -9,6 +11,7 @@ a gentle introduction on how to build distributed big data pipelines with the he
 
 In this course we will learn the architectural and practical part of using Apache Spark to implement big data solutions. We will use the Spark Core, SparkSQL, Spark Streaming, and Spark ML to implement different advanced analytics and machine learning algorithms in a production like data pipeline. This course will master your skills in designing solutions for common Big Data tasks such as creating batch and real-time data processing pipelines, doing machine learning at scale, deploying machine learning models into a production environment, and much more!
 
+----
 
 ### Content
 
@@ -18,10 +21,14 @@ In this course we will learn the architectural and practical part of using Apach
 4. Stream Processing [[lecture 4]](Modules/04%20Stream%20Processing/lectures/Lecture%204%20-%20Streaming%20Application.pdf) [[lecture 5]](Modules/04%20Stream%20Processing/lectures/Lecture%205%20-%20Spark%20Streaming%20vs%20Structured%20Streaming.pdf) [[labs]](Modules/04%20Stream%20Processing/Labs)
 5. Machine Learning [[lecture 6]](Modules/05%20Machine%20Learning/Lecture%206%20-%20Machine%20Learning.pdf) [[labs]](Modules/05%20Machine%20Learning/Lab)
 
+----
+
 ### Computational Resources
 
 1. Please register for **community** version of DataBricks [here](https://databricks.com/try-databricks).
 2. Please register for **free tier** AWS account [here](https://aws.amazon.com/free/)
+
+----
 
 ### Data Sources
 
@@ -36,6 +43,7 @@ You can find data and additional information from the links below:
 - [How to upload data to DataBricks](https://docs.databricks.com/user-guide/tables.html#create-table-ui)
 - [Read CSV files from uploaded data](https://docs.databricks.com/spark/latest/data-sources/read-csv.html) 
 
+----
 
 ### Additional Resources
 
@@ -49,12 +57,16 @@ We provide links for nice cheat sheets and books in order to make course as smoo
 6. [Developers Guide for AWS Machine Learning](https://docs.aws.amazon.com/machine-learning/latest/dg/what-is-amazon-machine-learning.html)
 7. [Superset](https://superset.incubator.apache.org/)
 
+----
+
 ### Course Initiative: 
 
 * [Ekhtiar Syed](https://www.linkedin.com/in/ekhtiar/)
 * [Vladimir Osin](https://www.linkedin.com/in/vosin/) 
 
 If you like the initiative please star/fork that repository and feel free to contribute with pull requests.
+
+----
 
 ### Places where this course has been taught (physically) 
 
