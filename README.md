@@ -1,6 +1,6 @@
 ## Architect Big Data Solutions with Apache Spark
 
-<img src="https://www.computing.co.uk/w-images/cc6f36ae-ffb1-4271-8847-725556046f5c/0/apachesparklogo-580x358.png" width="300" height="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" width="300" height="200" />
 
 ----
 
